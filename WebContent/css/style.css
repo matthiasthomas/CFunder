@@ -1,0 +1,35 @@
+.rowSeparator{
+	margin: 10px 0 40px 0;
+	border-bottom: 1px solid #EEEEEE;
+}
+
+footer {
+	border-top: 1px solid #EEEEEE;
+	height: 40px;
+	line-height: 40px;
+	margin-top: 60px;
+	text-align: center;
+}
+
+.projectInfos{
+	margin-top: 20px;
+}
+
+.projectInfos .user{
+	margin-top: 20px;
+	height: 50px;
+	font-size: 20pt;
+}
+
+.projectInfos .user i{
+	font-size: 26pt;
+	margin-top: 10px;
+}
+
+.projectInfos .amount{
+	font-size: 26pt;
+}
+
+.projectInfos .amount small{
+	font-size: 20pt;
+}
